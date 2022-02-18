@@ -1,0 +1,15 @@
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\bin\Debug\Music-Machine.exe.config
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\bin\Debug\Music-Machine.exe
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\bin\Debug\Music-Machine.pdb
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.csproj.AssemblyReference.cache
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music_Machine.Form1.resources
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music_Machine.Properties.Resources.resources
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.csproj.GenerateResource.cache
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.csproj.CoreCompileInputs.cache
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.exe
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.pdb
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\bin\Debug\Interop.WMPLib.dll
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Interop.WMPLib.dll
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\twistynado_\source\repos\Music-Machine\Music-Machine\obj\Debug\Music-Machine.csproj.ResolveComReference.cache
